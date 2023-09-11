@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "21722648315",
+    "project_id": "encuenta-51ddd",
+    "storage_bucket": "encuenta-51ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21722648315:android:8e8dbeb8fd7e1fddac6a5e",
+        "android_client_info": {
+          "package_name": "com.example.encuentra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21722648315-re7b91k0kmii6cuqgok09op6gncunoor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.encuentra",
+            "certificate_hash": "518547c215ee1b1ea47fd98ada3839f3be8e4780"
+          }
+        },
+        {
+          "client_id": "21722648315-5h3v8c0d45f9m9kb3pg4tsl7ivcv6ihq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmctcNdtxHYXLze_gzjefxGeAoIKTefI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21722648315-5h3v8c0d45f9m9kb3pg4tsl7ivcv6ihq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
